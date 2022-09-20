@@ -1,6 +1,6 @@
 # prueba-athmos-ejecicio-dos
 -----------------------------------------------------------
-#Explicación
+Explicación
 
 Pagina web, se ejecuta -python index.py
 
