@@ -1,0 +1,3 @@
+FLASK_APP=main.py
+ENV=development
+DISABLE_SQLALCHEMY_CEXT=1
