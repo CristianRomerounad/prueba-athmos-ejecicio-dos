@@ -4,7 +4,7 @@ Explicación
 
 Pagina web, se ejecuta -python index.py
 
-En el input ingresamo cualquier ítem que deseamos agregar
+En el input ingresamos cualquier ítem que deseamos agregar
 Y luego podemos obtener los resultados con la paginación de los botones del apartado de la derecha.
 
 ------------------------------------------------------------
